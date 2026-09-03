@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CiscoIPPhoneDirectory>
+  <Title>Speed Dials</Title>
+  <Prompt>Select Contact</Prompt>
+  <DirectoryEntry>
+    <Name>Contact One</Name>
+    <Telephone>101</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Contact Two</Name>
+    <Telephone>102</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Contact Three</Name>
+    <Telephone>103</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Contact Four</Name>
+    <Telephone>104</Telephone>
+  </DirectoryEntry>
+</CiscoIPPhoneDirectory>
